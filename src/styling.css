@@ -88,7 +88,6 @@ main {
   margin-top: 30px;
   font-size: 16px;
   font-weight: 500;
-  line-height: ;
 }
 
 .weather-forecast-date {
@@ -100,9 +99,9 @@ main {
 
 .weather-forecast-icon {
   display: block;
-  text-align: center;
-  font-size: 30px;
-  margin-top: 20px;
+  width: 88px;
+  height: 88px;
+  margin: 0 auto;
 }
 .weather-forecast-temperatures {
   margin-top: 10px;
